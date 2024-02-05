@@ -1,0 +1,268 @@
+{
+    "id": "ethereum",
+    "description": "Ethereum is a decentralized, open-source blockchain with smart contract functionality. Ether is the native cryptocurrency of the platform. It is the second-largest cryptocurrency by market capitalization, after Bitcoin. Ethereum is the most actively used blockchain.",
+    "tags": [
+        "pos",
+        "smart contracts",
+        "ethereum ecosystem",
+        "layer 1",
+        "evm"
+    ],
+    "coin_details": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "logo": "logo/ethereum.png",
+        "max_supply": "∞"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L1"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM"
+        }
+    ],
+    "official_links": {
+        "website": "https://ethereum.org/en/",
+        "whitepaper": "https://ethereum.org/en/whitepaper/",
+        "documentation": "https://ethereum.org/en/developers/docs/",
+        "forum": "https://ethereum-magicians.org/",
+        "github": "https://github.com/ethereum/go-ethereum"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/ethereum-org",
+        "twitter": "https://twitter.com/ethereum",
+        "reddit": "https://reddit.com/r/ethereum",
+        "community": "https://ethereum.org/community/online",
+        "coinmarketcap_community": "https://coinmarketcap.com/community/profile/Ethereum/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Ethereum"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "Polygon"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "Polygon"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "Polygon"
+        },
+        {
+            "name": "DappRadar",
+            "url": "Polygon"
+        },
+        {
+            "name": "CryptoCompare",
+            "url": "Polygon"
+        },
+        {
+            "name": "TradingView",
+            "url": "Polygon"
+        },
+        {
+            "name": "CoinDesk",
+            "url": "Polygon"
+        },
+        {
+            "name": "Investing",
+            "url": "Polygon"
+        },
+        {
+            "name": "MarketWatch",
+            "url": "Polygon"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "Polygon"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Etherscan",
+            "url": "Polygon"
+        },
+        {
+            "name": "Blockchair",
+            "url": "Polygon"
+        },
+        {
+            "name": "Parsec",
+            "url": "Polygon"
+        },
+        {
+            "name": "OKLink",
+            "url": "Polygon"
+        },
+        {
+            "name": "Ethplorer",
+            "url": "Polygon"
+        },
+        {
+            "name": "TokenView",
+            "url": "Polygon"
+        },
+        {
+            "name": "3xpl",
+            "url": "Polygon"
+        },
+        {
+            "name": "BlockSec",
+            "url": "Polygon"
+        },
+        {
+            "name": "OpenChain",
+            "url": "Polygon"
+        },
+        {
+            "name": "Tenderly",
+            "url": "Polygon"
+        },
+        {
+            "name": "Dedaub",
+            "url": "Polygon"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Layer Zero",
+            "url": "Polygon"
+        },
+        {
+            "name": "Axelar",
+            "url": "Polygon"
+        },
+        {
+            "name": "Hop Protocol",
+            "url": "Polygon"
+        },
+        {
+            "name": "Connext",
+            "url": "Polygon"
+        },
+        {
+            "name": "Wormhole",
+            "url": "Polygon"
+        },
+        {
+            "name": "Stargate",
+            "url": "Polygon"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "Polygon"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Ethereum Foundation",
+            "url": "Polygon"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Alchemy",
+            "url": "Polygon"
+        },
+        {
+            "name": "QuickNode",
+            "url": "Polygon"
+        },
+        {
+            "name": "All That Node",
+            "url": "Polygon"
+        },
+        {
+            "name": "Holesky PoW Faucet",
+            "url": "Polygon"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Chainlist",
+            "url": "Polygon"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Wallet Finder",
+            "url": "Polygon"
+        },
+        {
+            "name": "Metamask",
+            "url": "Polygon"
+        },
+        {
+            "name": "Safe",
+            "url": "Polygon"
+        },
+        {
+            "name": "Rainbow",
+            "url": "Polygon"
+        },
+        {
+            "name": "Coinbase Wallet",
+            "url": "Polygon"
+        },
+        {
+            "name": "OKX",
+            "url": "Polygon"
+        },
+        {
+            "name": "Trezor",
+            "url": "Polygon"
+        },
+        {
+            "name": "Ledger",
+            "url": "Polygon"
+        }
+    ],
+    "oracles": [
+        {
+            "name": "Chainlink",
+            "url": "Polygon"
+        },
+        {
+            "name": "Band Protocol",
+            "url": "Polygon"
+        },
+        {
+            "name": "Tellor",
+            "url": "Polygon"
+        },
+        {
+            "name": "API3",
+            "url": "Polygon"
+        },
+        {
+            "name": "Razor Network",
+            "url": "Polygon"
+        },
+        {
+            "name": "DIA",
+            "url": "Polygon"
+        },
+        {
+            "name": "Provable",
+            "url": "Polygon"
+        },
+        {
+            "name": "Chronicle",
+            "url": "Polygon"
+        }
+    ]
+}
